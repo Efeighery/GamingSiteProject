@@ -26,6 +26,10 @@ p{
 }
 
 ul{
+    /*
+     * CSS code that controls how the unordered list should look across the website. This is used for selecting tabs between
+     * the homepage, login page, and game reviews page, etc.
+    */
     list-style-type: none;
     margin: 0;
     padding: 0;
