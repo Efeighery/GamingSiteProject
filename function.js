@@ -7,6 +7,7 @@
 //The following JavaScript file controls the behaviour of the website.
 //The JS file is mostly used in the login.html file where it asks the user for their name.
 
+//The code that was commented below was just a test code to test if the JS File was working
 //alert("Hello World!");
 
 let userName = "";
